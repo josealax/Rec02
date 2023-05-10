@@ -1,0 +1,15 @@
+.k{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    background-color: #ff900f;
+}
+.p{
+    text-align: left;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+body{
+    background-color: antiquewhite;
+}
